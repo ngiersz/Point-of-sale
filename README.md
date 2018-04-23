@@ -3,10 +3,12 @@
 Implement a simple point of sale. 
  
 Assume you have: 
+
  –  one input device: bar codes scanner  
  –  two output devices: LCD display and printer 
  
 Implement: 
+
  – single product sale: products bar code is scanned and:  
    – if the product is found in products database then it's name and price is printed on LCD display 
    – if the product is not found then error message 'Product not found' is printed on LCD display  
